@@ -23,7 +23,10 @@
 
 ---
 
-## 👋 Sobre Mí
+𐔌՞. .՞𐦯 Sobre Mí
+<div align="center">
+ <p>⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</p>
+</div>
 
 Soy estudiante de último año de **Ingeniería en Informática** en INACAP con formación como **Técnico en Telecomunicaciones**. Mi pasión es crear experiencias de usuario intuitivas y soluciones tecnológicas centradas en las personas. 
 
