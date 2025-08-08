@@ -23,18 +23,29 @@
 
 ---
 
-𐔌՞. .՞𐦯 Sobre Mí
+## ✨ 𐔌՞. .՞𐦯 Sobre Mí
+
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.8;">
 
 Soy estudiante de último año de **Ingeniería en Informática** en INACAP con formación como **Técnico en Telecomunicaciones**. Mi pasión es crear experiencias de usuario intuitivas y soluciones tecnológicas centradas en las personas. 
 
-Enfoque principal:
-Desarrollo de interfaces de usuario  
-Experiencia de usuario (UX)  
-Implementación de soluciones full stack 
-Redes de Comunicación
-Tecnologias Inalambricas
+### 🌟 Enfoque principal:
+<div style="margin-left: 20px;">
+
+🌸 **Desarrollo de interfaces de usuario**  
+🌸 **Experiencia de usuario (UX)**  
+🌸 **Implementación de soluciones full stack**  
+🌸 **Redes de Comunicación**  
+🌸 **Tecnologías Inalámbricas**
+
+</div>
 
 Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar mis habilidades en proyectos desafiantes.
+
+</div>
+
+<div align="center">
+<pre style="font-size: 8; line-height: 1.1; background: transparent; border: none;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣅⣀⢈⣩⣷⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣀⠴⣒⣤⣀⡲⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢾⣿⣯⡿⠟⠋⠈⠻⡛⠋⠹⣗⡄⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⠊⢔⢉⢙⣹⡿⠳⣙⡊⣓⣉⣒⡤⡀⠀⠀⠀⠀⠀⣰⡟⣡⠟⠁⠀⠀⠀⠀⠀⠈⠑⠢⡍⡧⠀⠀⠀⠀⠀⠀⠀⠀
@@ -55,8 +66,8 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ⠀⣿⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀fllw me on pinterest : pinkiace ୨୧
----
+</pre>
+</div>
 
 ## 🛠️ Habilidades Técnicas
 
