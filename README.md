@@ -10,12 +10,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://tu-portafolio.com">
-    <img src="https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white" alt="Portafolio UX">
+    <img src="https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white" alt="Portafolio">
   </a>
-  <a href="mailto:alicia.norambuena@email.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:alicia.norambuenamedel@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" alt="mail">
   </a>
-  <img src="https://img.shields.io/badge/Location-Santiago,_Chile-blue" alt="Ubicación">
 </p>
 
 <div align="center">
