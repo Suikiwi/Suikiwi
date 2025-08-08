@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif" width="50">
-  Alicia Norambuena
-  <img src="https://i.pinimg.com/originals/9a/87/59/9a87597317d7c55c7076409a090821d3.gif" width="50">
+ ⋆𐙚₊˚⊹♡ Alicia Norambuena⋆𐙚₊˚⊹♡
 </h1>
 
-<h3 align="center">💻 Desarrolladora Full Stack | 🎨 Especialista UX/UI</h3>
+<h3 align="center"> Desarrolladora Full Stack | Especialista UX/UI</h3>
+<h4 align="center">Estudiante de último año de Ingeniería en Informática | Técnico en Telecomunicaciones</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-perfil">
