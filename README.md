@@ -1,13 +1,16 @@
-<!-- Cabecera con nombre y títulos -->
-<h1 align="center">👋 ¡Hola! Soy Alicia Norambuena</h1>
+<h1 align="center">
+  <img src="https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif" width="50">
+  Alicia Norambuena
+  <img src="https://i.pinimg.com/originals/9a/87/59/9a87597317d7c55c7076409a090821d3.gif" width="50">
+</h1>
+
 <h3 align="center">💻 Desarrolladora Full Stack | 🎨 Especialista UX/UI</h3>
-<h4 align="center">🎓 Estudiante de último año de Ingeniería en Informática | 📱 Técnico en Telecomunicaciones</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://linkedin.com/in/tu-perfil">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://tu-portafolio.com">
     <img src="https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white" alt="Portafolio UX">
   </a>
   <a href="mailto:alicia.norambuena@email.com">
@@ -16,9 +19,13 @@
   <img src="https://img.shields.io/badge/Location-Santiago,_Chile-blue" alt="Ubicación">
 </p>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif" width="300">
+</div>
+
 ---
 
-## 🚀 Sobre Mí
+## 👋 Sobre Mí
 
 Soy estudiante de último año de **Ingeniería en Informática** en INACAP con formación como **Técnico en Telecomunicaciones**. Mi pasión es crear experiencias de usuario intuitivas y soluciones tecnológicas centradas en las personas. 
 
@@ -34,47 +41,55 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ## 🛠️ Habilidades Técnicas
 
 ### 👩‍💻 Frontend & UX/UI
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">
+</p>
 
 ### ⚙️ Backend & Bases de Datos
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+</p>
 
 ### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-
-### 📊 Analítica & Herramientas
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)
-![KNIME](https://img.shields.io/badge/-KNIME-0081CB?logo=knime&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
+</p>
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-| Proyecto | Tecnologías | Descripción |
-|----------|-------------|-------------|
-| **[MedBook](https://github.com/tu-usuario/medbook)** | `React` `Django` `Figma` `MongoDB` | Plataforma de reservas médicas con enfoque UX |
-| **[DataViz Dashboard](https://github.com/tu-usuario/dataviz)** | `Power BI` `KNIME` `Azure` | Panel de visualización de datos en tiempo real |
-| **[EduPlay](https://github.com/tu-usuario/eduplay)** | `Vue.js` `AWS` `Adobe XD` | App educativa con diseño centrado en el usuario |
-| **[Cloud Analytics](https://github.com/tu-usuario/cloud-analytics)** | `AWS` `Python` `Docker` | Solución de análisis de datos en la nube |
+### [MedBook - Plataforma Médica](https://github.com/tu-usuario/medbook)
+Plataforma de reservas médicas con enfoque UX. Desarrollo full stack con React, Django y MongoDB.
+
+**Tecnologías:** `React` `Django` `Figma` `MongoDB`
+
+### [DataViz Dashboard](https://github.com/tu-usuario/dataviz)
+Panel de visualización de datos en tiempo real con Power BI y KNIME, implementado en Azure.
+
+**Tecnologías:** `Power BI` `KNIME` `Azure`
+
+### [EduPlay - App Educativa](https://github.com/tu-usuario/eduplay)
+Plataforma de aprendizaje interactivo con Vue.js y AWS, enfocada en experiencia de usuario.
+
+**Tecnologías:** `Vue.js` `AWS` `Adobe XD`
 
 ---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/9a/87/59/9a87597317d7c55c7076409a090821d3.gif" width="300">
+</div>
 
 ## 📚 Educación
 
@@ -86,7 +101,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 ---
 
-## 📜 Certificaciones (Selección)
+## 📜 Certificaciones
 
 - Google UX Design Professional (Coursera)
 - AWS Certified Cloud Practitioner
@@ -95,17 +110,6 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 - Interaction Design Specialization (Coursera)
 
 [Ver todas mis certificaciones →](https://tu-portafolio.com/certificaciones)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Alicia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados">
-  </a>
-</div>
 
 ---
 
@@ -127,5 +131,4 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet" alt="Visitas al perfil">
-  <img src="https://img.shields.io/badge/Hora_local-Santiago,_Chile-blue" alt="Hora local">
 </div>
