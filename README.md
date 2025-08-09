@@ -35,8 +35,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ##  𝅄 ꣑ৎ ࣪ㅤ𓈒  Habilidades Técnicas
 
 ### ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . ꔫ Frontend & UX/UI
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ۶ৎFrontend & UX/UI
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -46,8 +45,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ![](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white)
 
 ### ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . ꔫBackend & Bases de Datos
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀۶ৎBackend & Bases de Datos
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -56,8 +54,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
 ### ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . ꔫ DevOps & Cloud
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀۶ৎ DevOps & Cloud
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
@@ -66,8 +63,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ---
 
 ## ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . ꔫ Proyectos Destacados
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀۶ৎProyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
@@ -84,8 +80,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 </div>
 
 ## ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . ꔫEducación
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ۶ৎEducación
 
 - **🎓 Ingeniería en Informática**  
   INACAP, Santiago · 2022 - Presente (Último año)
@@ -109,8 +104,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ---
 
 ## ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . ꔫ Contacto
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ۶ৎContacto
 
 ¿Quieres colaborar o conocerme mejor? Escríbeme:
 
@@ -130,14 +124,14 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
   
 📌 **Santiago, Chile** • Última actualización: Agosto 2025 
 ⭐ **"Creando experiencias digitales que marcan la diferencia"**
-⠀⠀  ⡠⠒⢄  ⠀⠀   ᨘ⡴⠒⢦⣀⠔⠒⢄
-⠀⠀ ⡏  ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄
-⠀⠀ ⢸ ⠀⠀⠀  ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞
- ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀
-  ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀  ⣶⠀⠀⣾⠤⠤
- ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀      ⡸⠒⠒
-   ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣
-⠀ ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉
-⠀⠀               ⠑⠒⠓⠒ᱸ
-
+ᱸ
+<p aling="center">⊹
+⢠⡏⠉⠑⢄⠀ ⠀  ⡠⠋⠉⢱⡀
+⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
+⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
+⠘⢄⣀⡰⢻⠁⠀⠘⡕⢄⣀⡰⠁⠀⊹ 
+⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
+⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
+⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
+⊹</p>
 </div>
