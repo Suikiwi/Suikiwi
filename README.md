@@ -118,6 +118,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 <div align="center">
   
 📌 **Santiago, Chile** • Última actualización: Agosto 2025 
+<br>
 ⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅
 ⠀
 
