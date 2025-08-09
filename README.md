@@ -7,6 +7,7 @@
 #### Estudiante de último año de Ingeniería en Informática | Técnico en Telecomunicaciones
 
 📊 **6 Proyectos** • 📜 **13 Certificados** 
+⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Portafolio](https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
@@ -117,14 +118,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 <div align="center">
   
 📌 **Santiago, Chile** • Última actualización: Agosto 2025 
-⭐ **"Creando experiencias digitales que marcan la diferencia"**
-⊹
-⢠⡏⠉⠑⢄⠀ ⠀  ⡠⠋⠉⢱⡀
-⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
-⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
-⠘⢄⣀⡰⢻⠁⠀⠘⡕⢄⣀⡰⠁⠀⊹ 
-⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
-⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
-⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
+⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅
+⠀
 
 </div>
