@@ -7,7 +7,7 @@
 #### Estudiante de último año de Ingeniería en Informática | Técnico en Telecomunicaciones
 
 📊 **6 Proyectos** • 📜 **13 Certificados** 
-⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Portafolio](https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
