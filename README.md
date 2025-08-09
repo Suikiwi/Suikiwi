@@ -1,6 +1,6 @@
 <div align="center">
   
-![Instagram Header](https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif)
+![Instagram Header](https://cl.pinterest.com/pin/98727416830405409/)
 
 # ⋆𐙚₊˚⊹♡ Alicia Norambuena ⋆𐙚₊˚⊹♡
 ### Desarrolladora Full Stack | Especialista UX/UI
