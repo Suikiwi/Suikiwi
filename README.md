@@ -6,7 +6,7 @@
 ### Desarrolladora Full Stack | Especialista UX/UI
 #### Estudiante de último año de Ingeniería en Informática | Técnico en Telecomunicaciones
 
-📊 **6 Proyectos** • 📜 **13 Certificados** • ⏳ **3 Años de experiencia**
+📊 **6 Proyectos** • 📜 **13 Certificados** 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Portafolio](https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
@@ -16,12 +16,12 @@
 
 ---
 
-##  𝅄 ꣑ৎ ࣪ㅤ𓈒  Sobre Mí
+## 🌸 Sobre Mí
 
-🌸 **Estudiante de último año de Ingeniería en Informática** en INACAP con formación como **Técnico en Telecomunicaciones**.  
-🌸 Mi pasión es crear experiencias de usuario intuitivas y soluciones tecnológicas centradas en las personas.  
+**Estudiante de último año de Ingeniería en Informática** en INACAP con formación como **Técnico en Telecomunicaciones**.  
+Mi pasión es crear experiencias de usuario intuitivas y soluciones tecnológicas centradas en las personas.  
 
-###  𝅄 ꣑ৎ ࣪ㅤ𓈒  Enfoque principal:
+### ✨ Enfoque principal:
 - 🌸 Desarrollo de interfaces de usuario  
 - 🌸 Experiencia de usuario (UX)  
 - 🌸 Implementación de soluciones full stack  
@@ -32,10 +32,9 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 ---
 
-##  𝅄 ꣑ৎ ࣪ㅤ𓈒  Habilidades Técnicas
+## 💻 Habilidades Técnicas
 
-### ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ۶ৎFrontend & UX/UI
+### Frontend & UX/UI
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -44,8 +43,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white)
 
-### ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀۶ৎBackend & Bases de Datos
+### Backend & Bases de Datos
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -53,8 +51,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
-### ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀۶ৎ DevOps & Cloud
+### DevOps & Cloud
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
@@ -62,8 +59,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 ---
 
-## ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀۶ৎProyectos Destacados
+## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
@@ -79,8 +75,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 </div>
 
-## ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ۶ৎEducación
+## 📚 Educación
 
 - **🎓 Ingeniería en Informática**  
   INACAP, Santiago · 2022 - Presente (Último año)
@@ -103,8 +98,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 ---
 
-## ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ۶ৎContacto
+## 💌 Contacto
 
 ¿Quieres colaborar o conocerme mejor? Escríbeme:
 
@@ -124,8 +118,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
   
 📌 **Santiago, Chile** • Última actualización: Agosto 2025 
 ⭐ **"Creando experiencias digitales que marcan la diferencia"**
-ᱸ
-<p aling="center">⊹
+⊹
 ⢠⡏⠉⠑⢄⠀ ⠀  ⡠⠋⠉⢱⡀
 ⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
 ⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
@@ -133,5 +126,5 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 ⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
 ⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
 ⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
-⊹</p>
+
 </div>
