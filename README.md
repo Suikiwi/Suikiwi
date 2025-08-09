@@ -35,30 +35,8 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 ## 💻 Habilidades Técnicas
 
-### Frontend & UX/UI
-![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white)
+<img width="510" height="475" alt="image" src="https://github.com/user-attachments/assets/110cc245-a086-4e68-a164-5cf349f8cf0f" />
 
-### Backend & Bases de Datos
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-
-### DevOps & Cloud
-![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
 
 ## 🚀 Proyectos Destacados
 
