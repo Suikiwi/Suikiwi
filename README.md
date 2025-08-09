@@ -1,6 +1,6 @@
 <div align="center">
   
-![Instagram Header](https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif)
+![Instagram Header]((https://i.pinimg.com/originals/ae/a4/d9/aea4d98f890489e9a723cb3bae53f1f0.gif))
 
 # ⋆𐙚₊˚⊹♡ Alicia Norambuena ⋆𐙚₊˚⊹♡
 ### Desarrolladora Full Stack | Especialista UX/UI
@@ -72,7 +72,7 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
 
 <div align="center">
   
-![Instagram Footer](https://i.pinimg.com/originals/9a/87/59/9a87597317d7c55c7076409a090821d3.gif)
+![Instagram Footer]((https://i.pinimg.com/originals/77/eb/c5/77ebc5dc1ce6c7b0d98c4ecac6a9a4d2.gif))
 
 </div>
 
