@@ -1,85 +1,80 @@
+Claro, aquí tienes una versión profesional, limpia y bien estructurada de tu perfil de GitHub, sin emojis ni elementos decorativos excesivos:
+
+---
+
 <div align="center">
-  
-![Instagram Header](https://cl.pinterest.com/pin/98727416830405409/)
 
-# ⋆𐙚₊˚⊹♡ Alicia Norambuena ⋆𐙚₊˚⊹♡
-### Desarrolladora Full Stack | Especialista UX/UI
-#### Estudiante de último año de Ingeniería en Informática | Técnico en Telecomunicaciones
+# Alicia Norambuena  
+### Desarrolladora Full Stack | Especialista en UX/UI  
+#### Estudiante de último año de Ingeniería en Informática | Técnico en Telecomunicaciones  
 
-📊 **6 Proyectos** • 📜 **13 Certificados** 
+**6 Proyectos** • **13 Certificaciones**
 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portafolio](https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
+[![Portafolio](https://img.shields.io/badge/-Portafolio_UX-FF4088?logo=google-chrome&logoColor=white)](https://tu-portafolio.com)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:alicia.norambuenamedel@gmail.com)
 
 </div>
 
 ---
 
-## 🌸 Sobre Mí
+## Sobre mí
 
-**Estudiante de último año de Ingeniería en Informática** en INACAP con formación como **Técnico en Telecomunicaciones**.  
-Mi pasión es crear experiencias de usuario intuitivas y soluciones tecnológicas centradas en las personas.  
+Soy estudiante de último año de Ingeniería en Informática en INACAP, con formación previa como Técnico en Telecomunicaciones. Me especializo en el desarrollo de interfaces de usuario intuitivas y en la implementación de soluciones tecnológicas centradas en la experiencia del usuario.
 
-### ✨ Enfoque principal:
-- 🌸 Desarrollo de interfaces de usuario  
-- 🌸 Experiencia de usuario (UX)  
-- 🌸 Implementación de soluciones full stack  
-- 🌸 Redes de Comunicación  
-- 🌸 Tecnologías Inalámbricas  
+### Enfoque principal:
+- Desarrollo de interfaces de usuario  
+- Diseño de experiencia de usuario (UX)  
+- Desarrollo full stack  
+- Redes de comunicación  
+- Tecnologías inalámbricas  
 
-Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar mis habilidades en proyectos desafiantes.
+Actualmente estoy en búsqueda de una oportunidad de práctica profesional donde pueda aportar y seguir desarrollando mis habilidades en proyectos reales.
 
 ---
 
-## 💻 Habilidades Técnicas
+## Habilidades técnicas
 
-<img width="510" height="475" alt="image" src="https://github.com/user-attachments/assets/110cc245-a086-4e68-a164-5cf349f8cf0f" />
+<img width="510" height="475" alt="Habilidades técnicas" src="https://github.com/user-attachments/assets/110cc245-a086-4e68-a164-5cf349f8cf0f" />
 
+---
 
-## 🚀 Proyectos Destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| **[MedBook](https://github.com/tu-usuario/medbook)** | Plataforma de reservas médicas con enfoque UX | `React` `Django` `Figma` `MongoDB` |
-| **[DataViz Dashboard](https://github.com/tu-usuario/dataviz)** | Panel de visualización de datos en tiempo real | `Power BI` `KNIME` `Azure` `Python` |
-| **[EduPlay](https://github.com/tu-usuario/eduplay)** | App educativa con enfoque en UX | `Vue.js` `AWS` `Adobe XD` `Docker` |
+| **[MedBook](https://github.com/tu-usuario/medbook)** | Plataforma de reservas médicas con enfoque UX | React, Django, Figma, MongoDB |
+| **[DataViz Dashboard](https://github.com/tu-usuario/dataviz)** | Panel de visualización de datos en tiempo real | Power BI, KNIME, Azure, Python |
+| **[EduPlay](https://github.com/tu-usuario/eduplay)** | Aplicación educativa con diseño centrado en el usuario | Vue.js, AWS, Adobe XD, Docker |
 
 ---
 
-<div align="center">
-  
-![Instagram Footer](https://i.pinimg.com/originals/9a/87/59/9a87597317d7c55c7076409a090821d3.gif)
+## Educación
 
-</div>
+- **Ingeniería en Informática**  
+  INACAP, Santiago · 2022 – Presente (último año)
 
-## 📚 Educación
-
-- **🎓 Ingeniería en Informática**  
-  INACAP, Santiago · 2022 - Presente (Último año)
-  
-- **📜 Técnico Superior en Telecomunicaciones**  
+- **Técnico Superior en Telecomunicaciones**  
   Centro de Educación Técnico Profesional Maipú · Titulada en 2021
 
 ---
 
-## 📜 Certificaciones
+## Certificaciones
 
-- Google UX Design Professional (Coursera)
-- AWS Certified Cloud Practitioner
-- Adobe XD Master
-- Front-End Development Libraries (freeCodeCamp)
-- Interaction Design Specialization (Coursera)
-- Python for Data Science (DataCamp)
+- Google UX Design Professional (Coursera)  
+- AWS Certified Cloud Practitioner  
+- Adobe XD Master  
+- Front-End Development Libraries (freeCodeCamp)  
+- Interaction Design Specialization (Coursera)  
+- Python for Data Science (DataCamp)  
 
-[👉 Ver todas mis certificaciones](https://tu-portafolio.com/certificaciones)
+[Ver todas mis certificaciones](https://tu-portafolio.com/certificaciones)
 
 ---
 
-## 💌 Contacto
+## Contacto
 
-¿Quieres colaborar o conocerme mejor? Escríbeme:
+¿Quieres colaborar o saber más sobre mi trabajo? Puedes contactarme a través de:
 
 <p align="center">
   <a href="mailto:alicia.norambuenamedel@gmail.com">
@@ -93,11 +88,14 @@ Actualmente busco oportunidades de **práctica profesional** donde pueda aplicar
   </a>
 </p>
 
+---
+
 <div align="center">
-  
-📌 **Santiago, Chile** • Última actualización: Agosto 2025 
-<br>
-⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅⋅˚₊‧ 𐙚 ‧₊˚ ⋅
-⠀
+
+**Santiago, Chile** • Última actualización: Agosto 2025
 
 </div>
+
+---
+
+¿Quieres que también te ayude a personalizar los enlaces reales o a adaptar esta versión a otro idioma?
