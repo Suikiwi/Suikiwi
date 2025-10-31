@@ -1,6 +1,4 @@
-Claro, aquí tienes una versión profesional, limpia y bien estructurada de tu perfil de GitHub, sin emojis ni elementos decorativos excesivos:
 
----
 
 <div align="center">
 
